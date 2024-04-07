@@ -20,8 +20,8 @@
 | Title      | Description                                  | Status    |
 |------------|----------------------------------------------|-----------|
 | Terminating Users | This service offers free termination towards any Roblox account or bans **with proof else method is used**. | Inactive |
-| Asset Uploader | This service provides to upload any asset **Audio, Decal, Image, TShirt, Shirt, Pants**. This service guarantees a 60% **bypassable** image as it follows under our [terms](https://cdn.bitsproxy.dev/au-terms.txt). | Active |
+| Asset Uploader | This service provides to upload any asset **Audio, Decal, Image, TShirt, Shirt, Pants**. This service guarantees a 60% **bypassable** image as it follows under our [terms](https://cdn.bitsproxy.dev/au-terms.txt). | Inactive |
 
-More services will be added as long as contents too. **Last updated: 3/31/2024**
+More services will be added as long as contents too. **Last updated: 4/6/2024**
 
 Stay cool fellow **proxies** 💖
