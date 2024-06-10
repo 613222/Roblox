@@ -13,7 +13,7 @@
 
 | Folder     | Description                                  | Updated   |
 |------------|----------------------------------------------|-----------|
-| MassUpload | Roblox's free mass upload script **(actually coming soon)** | 2/14/2024 |
+| MassUpload | Roblox's free mass upload script & Inventory Checkers | 6/10/2024 |
 | Scripts | Free Roblox's scripts by 613222s. | OUT SOON |
 
 ## Services
